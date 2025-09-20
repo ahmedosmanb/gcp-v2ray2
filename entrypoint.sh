@@ -16,7 +16,7 @@ cat > /etc/v2ray/config.json <<EOF
       "settings": {
         "clients": [
           {
-            "id": "d805e3c5-92f3-4e4b-aeb7-d705bd789f4e",
+            "id": "4cf09c72-f801-44b8-af32-16c984d928d8",
             "level": 0,
             "email": "user@example.com"
           }
