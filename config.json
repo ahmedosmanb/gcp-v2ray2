@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "abcd1234-ef56-7890-abcd-1234567890ff",
+            "id": "4cf09c72-f801-44b8-af32-16c984d928d8",
             "level": 0
           }
         ],
@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/Cloud-CDN"
+          "path": "/attackonnetwork"
         }
       }
     }
